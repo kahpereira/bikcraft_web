@@ -1,6 +1,5 @@
 /* ESTILO PARA TABLETS */
 @media only screen and (min-width: 788px) and (max-width: 979px) {
-
   /* QUALIDADE HOME */
   .qualidade::after {
     right: 76px;
@@ -9,48 +8,46 @@
   .qualidade_lista li {
     padding: 0 10px;
   }
+
+  /* FOOTER */
+  .footer_redes ul li a {
+    border: 3px solid #fec63e;
+    display: block;
+    padding: 6px;
+  }
+
+  .footer_redes ul li a img {
+    width: 26px;
+    height: 26px;
+  }
+
+  /* PRODUTOS */
+
+  .produto_item h2 {
+    top: -150px;
+    margin-bottom: -56px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+  }
+
+  .produto_info p {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 20px 30px;
+    height: 122px;
+  }
+
+  .produto_info ul li {
+    width: 181px;
+    height: 49px;
+  }
 }
-
-/* FOOTER */
-.footer_redes ul li a {
-  border: 3px solid #fec63e;
-  display: block;
-  padding: 6px;
-}
-
-.footer_redes ul li a img {
-  width: 26px;
-  height: 26px;
-}
-
-/* PRODUTOS */
-
-.produto_item h2 {
-  top: -150px;
-  margin-bottom: -56px;
-}
-
-.produto_icone {
-  padding: 41px 0;
-}
-
-.produto_info p {
-  font-size: 14px;
-  line-height: 20px;
-  padding: 20px 30px;
-  height: 122px;
-}
-
-.produto_info ul li {
-  width: 181px;
-  height: 49px;
-}
-
 /* FINAL ESTILO TABLET */
 
 /* ESTILO PARA SMARTPHONE */
 @media only screen and (max-width: 787px) {
-
   /* HEADER */
   .header {
     position: relative;

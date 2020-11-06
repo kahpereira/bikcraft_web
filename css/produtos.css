@@ -10,7 +10,7 @@
 .produto_item h2 {
   font-size: 36px;
   text-transform: uppercase;
-  letter-spacing: .1em;
+  letter-spacing: 0.1em;
   font-weight: bold;
   color: #ffffff;
   position: relative;
@@ -96,7 +96,7 @@
 .form label {
   display: block;
   color: #ffffff;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 25px;
   margin-bottom: 4px;
@@ -112,7 +112,7 @@
   margin-bottom: 10px;
   outline: none;
   font-size: 14px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .form textarea {
@@ -126,7 +126,7 @@
   margin-bottom: 20px;
   outline: none;
   font-size: 14px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .form button {
@@ -150,7 +150,7 @@
   display: block;
   font-size: 18px;
   line-height: 30px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .orcamento_dados span:nth-of-type(even) {
@@ -166,7 +166,7 @@
 }
 
 .orcamento_dados ul li {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
   padding: 10px 15px;
 }
