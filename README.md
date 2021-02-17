@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://kahpereira-bikcraft.netlify.app/"><img alt="Bikcraft" width="250px" src="https://github.com/kahpereira/bikcraft_web/blob/master/img/bikcraft.svg"></a></h1>
+<h1 align="center"><a href="https://kahpereira-bikcraft.netlify.app/" target="_blank"><img alt="Bikcraft" width="250px" src="https://github.com/kahpereira/bikcraft_web/blob/master/img/bikcraft.svg"></a></h1>
 
 <h3 align="center">Bikcraft é um site para compra de bikes personalizadas</h3>
 
@@ -7,7 +7,7 @@
 <h1 align="center"><img alt="bikcraft-desktop" src="https://github.com/kahpereira/bikcraft_web/blob/master/img/screenshots/video-page.gif"></h1>
 <a id="site"></a>
 <p align="center">Site disponível no netlify para melhor observação:</p>
-<p align="center"><a href="https://kahpereira-bikcraft.netlify.app/">Bikcraft - Bicicletas Personalizadas</a></p>
+<p align="center"><a href="https://kahpereira-bikcraft.netlify.app/" target="_blank">Bikcraft - Bicicletas Personalizadas</a></p>
 
 
 ---
@@ -20,7 +20,7 @@
 
 <a id="tecnologias"></a>
 ### 🛠 Tecnologias:
-Este projeto foi desenvolvido no curso <a href="https://www.origamid.com/curso/web-design-completo/">Web Design Completo</a> do site <a href="https://www.origamid.com/">Origamid</a> com as seguintes tecnologias:
+Este projeto foi desenvolvido no curso <a href="https://www.origamid.com/curso/web-design-completo/" target="_blank">Web Design Completo</a> do site <a href="https://www.origamid.com/" target="_blank">Origamid</a> com as seguintes tecnologias:
 - HTML5
 - CSS3
 - JavaScript
